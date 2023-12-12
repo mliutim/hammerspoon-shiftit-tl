@@ -1,3 +1,13 @@
+**Steps:**
+After standard install - 
+
+1. Replace ~/.hammerspoon/Spoons/ShiftIt.spoon/init.lua with init_tl.lua
+2. Replace ~/.hammerspoon/init.lua with dot.hammerspoon-tl/init.lua
+
+=======
+
+
+
 # Hammerspoon ShiftIt
 
 A [ShiftIt](https://github.com/fikovnik/ShiftIt) like [Hammerspoon](http://www.hammerspoon.org) window management configuration.
